@@ -1,0 +1,14 @@
+
+*Capo II - Doveri Generali*
+===========================
+
+.. include:: articoli/articolo03.rst
+.. include:: articoli/articolo04.rst
+.. include:: articoli/articolo05.rst
+.. include:: articoli/articolo06.rst
+.. include:: articoli/articolo07.rst
+.. include:: articoli/articolo08.rst
+.. include:: articoli/articolo09.rst
+.. include:: articoli/articolo10.rst
+.. include:: articoli/articolo11.rst
+.. include:: articoli/articolo12.rst

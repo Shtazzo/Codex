@@ -3,18 +3,35 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to L'Esame's documentation!
+
+
+.. _donation_link: https://www.paypal.com/donate/?hosted_button_id=EKASBCXHMMARG
+
+.. |Donate| image:: img/paypal.png
+   :width: 16
+   :target: donation_link_
+
+.. |QRPayPal| image:: img/Codice_QR.png
+   :scale: 50%
+
+
+L'Esame di Stato!
 ===================================
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
-   :caption: Contents:
+   
+   capitoli/codice/codice_deontologico.rst
+   capitoli/sanzioni/sanzioni.rst
 
-
-
-Indices and tables
+Indice
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`codice-deontologico`
+* :ref:`sanzioni`
+
+
+Se questo contenuto ti è risultato utile, puoi offrirmi un caffè |Donate|
+
+|QRPayPal|

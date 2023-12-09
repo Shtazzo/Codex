@@ -14,7 +14,10 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['sphinx.ext.extlinks',]
+extlinks = {
+    'footerlink': ('https://www.paypal.com/donate/?hosted_button_id=EKASBCXHMMARG', ''),
+}
 
 templates_path = ['_templates']
 exclude_patterns = []
