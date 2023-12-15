@@ -32,6 +32,7 @@ Questa documentazione vuole essere di aiuto a chiunque voglia intraprendere il p
 Al momento, la documentazione comprende il :ref:`codice-deontologico` in modo che possa essere consultato immediatamente da smartphone. Con il tempo verranno allestite le pagine delle :ref:`sanzioni` e delle :ref:`mappe-concettuali`, inoltre verranno aggiunti dei compendi ai vari articoli del Codice Deontologico, rendendo semplice la ripetizione e lo studio.
 
 
+Se questo contenuto ti è risultato utile, puoi offrirmi un caffè |Donate|
 
 Indice
 ~~~~~~
@@ -39,25 +40,3 @@ Indice
 * :ref:`codice-deontologico`
 * :ref:`sanzioni`
 * :ref:`mappe-concettuali`
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-
-Se questo contenuto ti è risultato utile, puoi offrirmi un caffè |Donate|
