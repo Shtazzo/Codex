@@ -4,6 +4,10 @@
 Codice Deontologico
 ********************
 
+.. _codice_cni: https://www.cni.it/cni/codice-deontologico
+__ codice_cni_
+
+Il testo originale del **Codice Deontologico** si trova sulla `pagina ufficiale`__ del **Consiglio Nazionale degli Ingegneri Italiani (CNI)**. 
 
 .. include:: sezione1.rst
 .. include:: sezione2.rst

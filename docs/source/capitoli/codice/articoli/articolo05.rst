@@ -1,4 +1,20 @@
-Articolo 05
-------------
+Articolo 05 - Legalità
+----------------------
 
-Ciao 
+
+**5.1**
+
+	Costituisce illecito disciplinare lo svolgimento di attività professionale in mancanza di titolo in settori o sezioni diversi da quelli di competenza o in periodo di sospensione.
+
+**5.2**
+
+	Il comportamento dell'Ingegnere che certifica, dichiara o attesta la falsa esistenza di requisiti e/o presupposti per la legittimità dei conseguenti atti e provvedimenti amministrativi costituisce violazione disciplinare.
+
+**5.3**
+
+	Costituisce grave violazione deontologica, lesiva della categoria professionale, ogni forma di partecipazione o contiguità in affari illeciti a qualunque titolo collegati o riconducibili alla criminalità organizzata o comunque a soggetti dediti al malaffare.
+ 
+
+----
+
+.. 

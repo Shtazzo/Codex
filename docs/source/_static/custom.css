@@ -38,3 +38,8 @@ a:hover {
   background-color: #a92121;
   color: white;
 }
+
+
+section {
+  text-align: justify;
+}

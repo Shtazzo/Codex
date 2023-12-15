@@ -1,4 +1,22 @@
-Articolo 02
-------------
+Articolo 02 - Finalità e ambito di applicazione
+------------------------------------------------
 
-Ciao 
+**2.1**
+
+	Le presenti norme si applicano agli iscritti ad ogni settore e in ogni sezione dell’albo, in qualunque forma gli stessi svolgano l'attività di Ingegnere e sono finalizzate alla tutela dei valori e interessi generali connessi all’esercizio professionale e del decoro della professione.
+
+**2.2**
+
+	Le previsioni del presente Codice deontologico devono intendersi riferite a tutti i titoli professionali stabiliti dall’*art.45* del Decreto del Presidente della Repubblica *5 giugno 2001 n.328*, e sinteticamente indicati con il termine “**Ingegnere**”.
+
+**2.3**
+
+	Chiunque eserciti la professione di Ingegnere in Italia è impegnato a rispettare e far rispettare il presente Codice Deontologico, anche se cittadino di altro Stato ed anche nel caso di prestazioni transfrontaliere occasionali temporanee.
+
+**2.4**
+
+	Il rispetto delle presenti norme è dovuto anche per prestazioni rese all’estero, unitamente al rispetto delle norme etico-deontologiche vigenti nel paese in cui viene svoltala prestazione professionale.
+
+----
+
+.. 

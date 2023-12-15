@@ -1,4 +1,45 @@
-Articolo 15
-------------
+Articolo 15 - Concorrenza
+-------------------------
 
-Ciao 
+**15.1**
+
+	La concorrenza è libera e deve svolgersi nel rispetto delle norme deontologiche secondo i principi fissati dalla normativa e dall'ordinamento comunitario.
+
+**15.2**
+
+	L’Ingegnere si deve astenere dal ricorrere a mezzi incompatibili con la propria dignità per ottenere incarichi professionali, come l’esaltazione delle proprie qualità a denigrazione delle altrui o fornendo vantaggi o assicurazioni esterne al rapporto professionale.
+
+**15.3**
+
+	È sanzionabile disciplinarmente la pattuizione di compensi manifestamente inadeguati alla prestazione da svolgere. In caso di accettazione di incarichi con corrispettivo che si presuma anormalmente basso, l’Ingegnere potrà essere chiamato a dimostrare il rispetto dei principi di efficienza e qualità della prestazione. La violazione, da parte del professionista, dell’obbligo di convenire o di preventivare un compenso che sia giusto, equo e proporzionato alla prestazione professionale richiesta e determinato in applicazione dei parametri previsti dai pertinenti decreti ministeriali, è sanzionata a giudizio del Consiglio di disciplina territoriale, ai sensi dell’art.5, comma 5, della *legge 21 aprile 2023 n.49*.
+
+**15.4**
+	
+	La violazione dell’obbligo di avvertire il cliente, nei soli rapporti in cui la convenzione, il contratto o comunque qualsiasi accordo con il cliente siano predisposti esclusivamente dal professionista, che il compenso per la prestazione professionale deve rispettare in ogni caso, pena la nullità della pattuizione, i criteri stabiliti dalle disposizioni della legge 21 aprile 2023 n. 49 e dalle altre leggi in vigore è sanzionata a giudizio del Consiglio di disciplina territoriale, ai sensi dell’art.5, comma 5, della legge citata.
+
+**15.5**
+
+	L’illecita concorrenza può manifestarsi in diverse forme:
+	
+		a. critiche denigratorie sul comportamento professionale di un collega;
+		
+		b. attribuzione a sé della paternità di un lavoro eseguito in
+		collaborazione senza che sia chiarito l’effettivo apporto dei
+		collaboratori;
+		
+		c. attribuzione a se stessi del risultato della prestazione professionale
+		di altro professionista;
+		
+		d. utilizzazione della propria posizione o delle proprie conoscenze
+		presso Amministrazioni od Enti Pubblici per acquisire incarichi
+		professionali direttamente o per interposta persona;
+		
+		e. partecipazione come consulente presso enti banditori o come membro di commissioni giudicatrici di concorsi che non abbiano avuto esito conclusivo per accettare incarichi inerenti alla
+		progettazione che è stata oggetto del concorso;
+		
+		f. abuso di mezzi pubblicitari della propria attività professionale e che
+		possano ledere in vario modo la dignità della professione.
+
+----
+
+..

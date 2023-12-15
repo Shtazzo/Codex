@@ -1,4 +1,32 @@
-Articolo 11
-------------
+Articolo 11 - Incarichi e compensi
+----------------------------------
 
-Ciao 
+
+**11.1**
+
+	L'Ingegnere al momento dell'affidamento dell'incarico deve definire con chiarezza i termini dell’incarico conferito e deve pattuire il compenso con il committente, rendendo noto il grado di complessità della prestazione e fornendo tutte le informazioni utili circa gli oneri ipotizzabili correlati o correlabili all’incarico stesso.
+
+**11.2**
+
+	L’Ingegnere è tenuto a comunicare al committente eventuali situazioni o circostanze che possano modificare il compenso inizialmente pattuito, indicando l'entità della variazione.
+
+**11.3**
+
+	La misura del compenso è correlata all’importanza dell’opera e al decoro della professione ai sensi dell’art. 2233 del codice civile e deve essere resa nota al committente, comprese spese, oneri e contributi. Il compenso relativo alle prestazioni professionali di cui alla legge 21 aprile 2023 n.49 deve essere proporzionato alla quantità e alla qualità del lavoro svolto, al contenuto e alla caratteristiche della prestazione professionale, nonchè conforme ai compensi fissati dai decreti ministeriali, ai sensi dell’art.1 della legge citata.
+
+**11.4**
+
+	I compensi professionali previsti nei modelli standard di convenzione, concordati tra imprese e Consiglio Nazionale degli Ingegneri si presumono equi fino a prova contraria, ai sensi dell’art.6 della *legge 21 aprile 2023 n.49*.
+
+**11.5**
+
+	L’Ingegnere può fornire prestazioni professionali a titolo gratuito solo in casi particolari quando sussistano valide motivazioni ideali ed umanitarie.
+
+**11.6**
+
+	Possono considerarsi prestazioni professionali non soggette a remunerazione tutti quegli interventi di aiuto rivolti a colleghi Ingegneri che, o per limitate esperienze dovute alla loro giovane età o per situazioni professionali gravose, si vengono a trovare in difficoltà.
+
+
+----
+
+.. 
