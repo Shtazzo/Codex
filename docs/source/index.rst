@@ -24,6 +24,8 @@ L'Esame di Stato!
    
    capitoli/codice/codice_deontologico.rst
    capitoli/sanzioni/sanzioni.rst
+   capitoli/leggi/leggi.rst
+   capitoli/domande/domande.rst
    capitoli/mappe/mappe.rst
 
 
@@ -39,4 +41,6 @@ Indice
 
 * :ref:`codice-deontologico`
 * :ref:`sanzioni`
+* :ref:`leggi-e-decreti`
+* :ref:`domande-esame`
 * :ref:`mappe-concettuali`
